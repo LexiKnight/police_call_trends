@@ -1,10 +1,10 @@
 ---
-title: "My title"
+title: "Analyzing Trends in Non-English Calls, False Alarms, and Emergency Response in Toronto (2014-2019)"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: [https://github.com/RohanAlexander/starter_folder](https://github.com/RohanAlexander/starter_folder)."
+  - Lexi Knight
+thanks: "Code and data are available at:
+[https://github.com/LexiKnight/police_call_trends](https://github.com/LexiKnight/police_call_trends)."
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
