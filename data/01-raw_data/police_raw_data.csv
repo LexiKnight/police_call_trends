@@ -1,0 +1,270 @@
+_id,YEAR,CATEGORY,TYPE,COUNT_
+1,2014,Languages,Arabic,98
+2,2014,Languages,Chinese,2069
+3,2014,Languages,Croatian,12
+4,2014,Languages,Farsi,165
+5,2014,Languages,French,171
+6,2014,Languages,German,7
+7,2014,Languages,Greek,25
+8,2014,Languages,Hindi,12
+9,2014,Languages,Hungarian,173
+10,2014,Languages,Italian,110
+11,2014,Languages,Japanese,43
+12,2014,Languages,Korean,175
+13,2014,Languages,Polish,69
+14,2014,Languages,Portuguese,147
+15,2014,Languages,Punjabi,46
+16,2014,Languages,Russian,201
+17,2014,Languages,Somali,30
+18,2014,Languages,Spanish ,493
+19,2014,Languages,Tamil,235
+20,2014,Languages,Turkish,39
+21,2014,Languages,Urdu,19
+22,2014,Languages,Vietnamese,157
+23,2014,Alarm Calls,Valid Alarms,436
+24,2014,Alarm Calls,False Alarms,23914
+25,2014,Alarm Calls,Valid Alarms,436
+26,2014,Alarm Calls,False Alarms,23914
+27,2014,Calls Received,Emergency,1075770
+28,2014,Calls Received,Non-Emergency,850420
+29,2015,Languages,Arabic,110
+30,2015,Languages,Chinese,2335
+31,2015,Languages,Croatian,5
+32,2015,Languages,Farsi,149
+33,2015,Languages,French,212
+34,2015,Languages,German,5
+35,2015,Languages,Greek,58
+36,2015,Languages,Hindi,34
+37,2015,Languages,Hungarian,148
+38,2015,Languages,Italian,110
+39,2015,Languages,Japanese,28
+40,2015,Languages,Korean,174
+41,2015,Languages,Polish,98
+42,2015,Languages,Portuguese,149
+43,2015,Languages,Punjabi,59
+44,2015,Languages,Russian,245
+45,2015,Languages,Somali,39
+46,2015,Languages,Spanish ,468
+47,2015,Languages,Tamil,308
+48,2015,Languages,Turkish,42
+49,2015,Languages,Urdu,17
+50,2015,Languages,Vietnamese,154
+51,2015,Alarm Calls,Valid Alarms,509
+52,2015,Alarm Calls,False Alarms,22653
+53,2015,Alarm Calls,Valid Alarms,509
+54,2015,Alarm Calls,False Alarms,22653
+55,2015,Calls Received,Emergency,991872
+56,2015,Calls Received,Non-Emergency,806024
+57,2016,Languages,Arabic,144
+58,2016,Languages,Chinese,2420
+59,2016,Languages,Croatian,11
+60,2016,Languages,Farsi,165
+61,2016,Languages,French,265
+62,2016,Languages,German,13
+63,2016,Languages,Greek,46
+64,2016,Languages,Hindi,38
+65,2016,Languages,Hungarian,277
+66,2016,Languages,Italian,135
+67,2016,Languages,Japanese,27
+68,2016,Languages,Korean,233
+69,2016,Languages,Polish,123
+70,2016,Languages,Portuguese,229
+71,2016,Languages,Punjabi,57
+72,2016,Languages,Russian,220
+73,2016,Languages,Somali,70
+74,2016,Languages,Spanish ,492
+75,2016,Languages,Tamil,278
+76,2016,Languages,Turkish,43
+77,2016,Languages,Urdu,20
+78,2016,Languages,Vietnamese,143
+79,2016,Alarm Calls,Valid Alarms,526
+80,2016,Alarm Calls,False Alarms,21538
+81,2016,Alarm Calls,Valid Alarms,526
+82,2016,Alarm Calls,False Alarms,21538
+83,2016,Calls Received,Emergency,962722
+84,2016,Calls Received,Non-Emergency,843538
+85,2017,Languages,Arabic,201
+86,2017,Languages,Chinese,2474
+87,2017,Languages,Croatian,7
+88,2017,Languages,Farsi,214
+89,2017,Languages,French,276
+90,2017,Languages,German,10
+91,2017,Languages,Greek,79
+92,2017,Languages,Hindi,57
+93,2017,Languages,Hungarian,217
+94,2017,Languages,Italian,129
+95,2017,Languages,Japanese,28
+96,2017,Languages,Korean,194
+97,2017,Languages,Polish,94
+98,2017,Languages,Portuguese,190
+99,2017,Languages,Punjabi,72
+100,2017,Languages,Russian,223
+101,2017,Languages,Somali,106
+102,2017,Languages,Spanish ,588
+103,2017,Languages,Tamil,343
+104,2017,Languages,Turkish,32
+105,2017,Languages,Urdu,31
+106,2017,Languages,Vietnamese,161
+107,2017,Alarm Calls,Valid Alarms,608
+108,2017,Alarm Calls,False Alarms,18120
+109,2019,Calls Received,Emergency,1136123
+110,2019,Calls Received,Non-Emergency,807256
+111,2020,Languages,Arabic,205
+112,2020,Languages,Chinese,2080
+113,2020,Languages,Croatian,3
+114,2020,Languages,Farsi,271
+115,2020,Languages,French,282
+116,2020,Languages,German,1
+117,2020,Languages,Greek,37
+118,2020,Languages,Hindi,33
+119,2020,Languages,Hungarian,176
+120,2020,Languages,Italian,144
+121,2020,Languages,Japanese,16
+122,2020,Languages,Korean,178
+123,2020,Languages,Polish,118
+124,2020,Languages,Portuguese,189
+125,2020,Languages,Punjabi,85
+126,2020,Languages,Russian,264
+127,2020,Languages,Somali,67
+128,2020,Languages,Spanish ,762
+129,2020,Languages,Tamil,247
+130,2020,Languages,Turkish,54
+131,2020,Languages,Urdu,34
+132,2020,Languages,Vietnamese,127
+133,2020,Alarm Calls,Valid Alarms,781
+134,2020,Alarm Calls,False Alarms,5075
+135,2020,Calls Received,Emergency,1039663
+136,2020,Calls Received,Non-Emergency,642445
+137,2021,Languages,Arabic,370
+138,2021,Languages,Chinese,2278
+139,2021,Languages,Croatian,8
+140,2021,Languages,Farsi,325
+141,2021,Languages,French,378
+142,2021,Languages,German,6
+143,2021,Languages,Greek,33
+144,2021,Languages,Hindi,50
+145,2021,Languages,Hungarian,233
+146,2021,Languages,Italian,115
+147,2021,Languages,Japanese,10
+148,2021,Languages,Korean,162
+149,2021,Languages,Polish,65
+150,2021,Languages,Portuguese,214
+151,2021,Languages,Punjabi,100
+152,2021,Languages,Russian,267
+153,2021,Languages,Somali,107
+154,2021,Languages,Spanish ,945
+155,2021,Languages,Tamil,299
+156,2021,Languages,Turkish,69
+157,2021,Languages,Urdu,41
+158,2021,Languages,Vietnamese,260
+159,2021,Alarm Calls,Valid Alarms,819
+160,2021,Alarm Calls,False Alarms,4446
+161,2021,Calls Received,Emergency,1101970
+162,2021,Calls Received,Non-Emergency,647004
+163,2022,Languages,Arabic,398
+164,2022,Languages,Chinese,2450
+165,2022,Languages,Croatian,14
+166,2022,Languages,Farsi,328
+167,2022,Languages,French,445
+168,2022,Languages,German,3
+169,2022,Languages,Greek,21
+170,2022,Languages,Hindi,59
+171,2022,Languages,Hungarian,257
+172,2022,Languages,Italian,121
+173,2022,Languages,Japanese,34
+174,2022,Languages,Korean,152
+175,2022,Languages,Polish,84
+176,2022,Languages,Portuguese,349
+177,2022,Languages,Punjabi,112
+178,2022,Languages,Russian,241
+179,2022,Languages,Somali,68
+180,2022,Languages,Spanish ,1327
+181,2022,Languages,Tamil,204
+182,2022,Languages,Turkish,161
+183,2022,Languages,Urdu,54
+184,2022,Languages,Vietnamese,321
+185,2022,Alarm Calls,Valid Alarms,907
+186,2022,Alarm Calls,False Alarms,5019
+187,2022,Calls Received,Emergency,1245250
+188,2022,Calls Received,Non-Emergency,663873
+189,2023,Languages,Arabic,492
+190,2023,Languages,Chinese,2500
+191,2023,Languages,Croatian,4
+192,2023,Languages,Farsi,440
+193,2023,Languages,French,405
+194,2023,Languages,German,4
+195,2023,Languages,Greek,27
+196,2023,Languages,Hindi,60
+197,2023,Languages,Hungarian,249
+198,2023,Languages,Italian,112
+199,2023,Languages,Japanese,36
+200,2023,Languages,Korean,138
+201,2023,Languages,Polish,98
+202,2023,Languages,Portuguese,323
+203,2023,Languages,Punjabi,123
+204,2023,Languages,Russian,349
+205,2023,Languages,Somali,89
+206,2023,Languages,Spanish ,1796
+207,2023,Languages,Tamil,217
+208,2023,Languages,Turkish,346
+209,2023,Languages,Ukrainian,212
+210,2023,Languages,Urdu,59
+211,2023,Languages,Vietnamese,259
+212,2023,Alarm Calls,Valid Alarms,1252
+213,2023,Alarm Calls,False Alarms,5704
+214,2023,Calls Received,Emergency,1426213
+215,2023,Calls Received,Non-Emergency,703188
+216,2017,Alarm Calls,Valid Alarms,608
+217,2017,Alarm Calls,False Alarms,18120
+218,2017,Calls Received,Emergency,996467
+219,2017,Calls Received,Non-Emergency,848711
+220,2018,Languages,Arabic,188
+221,2018,Languages,Chinese,2895
+222,2018,Languages,Croatian,8
+223,2018,Languages,Farsi,216
+224,2018,Languages,French,336
+225,2018,Languages,German,4
+226,2018,Languages,Greek,57
+227,2018,Languages,Hindi,40
+228,2018,Languages,Hungarian,191
+229,2018,Languages,Italian,126
+230,2018,Languages,Japanese,43
+231,2018,Languages,Korean,190
+232,2018,Languages,Polish,89
+233,2018,Languages,Portuguese,243
+234,2018,Languages,Punjabi,232
+235,2018,Languages,Russian,246
+236,2018,Languages,Somali,87
+237,2018,Languages,Spanish ,666
+238,2018,Languages,Tamil,394
+239,2018,Languages,Turkish,64
+240,2018,Languages,Urdu,51
+241,2018,Languages,Vietnamese,205
+242,2018,Alarm Calls,Valid Alarms,787
+243,2018,Alarm Calls,False Alarms,11629
+244,2018,Calls Received,Emergency,1094182
+245,2018,Calls Received,Non-Emergency,838363
+246,2019,Languages,Arabic,213
+247,2019,Languages,Chinese,2682
+248,2019,Languages,Croatian,5
+249,2019,Languages,Farsi,278
+250,2019,Languages,French,337
+251,2019,Languages,German,2
+252,2019,Languages,Greek,28
+253,2019,Languages,Hindi,52
+254,2019,Languages,Hungarian,204
+255,2019,Languages,Italian,158
+256,2019,Languages,Japanese,51
+257,2019,Languages,Korean,232
+258,2019,Languages,Polish,92
+259,2019,Languages,Portuguese,234
+260,2019,Languages,Punjabi,218
+261,2019,Languages,Russian,238
+262,2019,Languages,Somali,71
+263,2019,Languages,Spanish ,756
+264,2019,Languages,Tamil,265
+265,2019,Languages,Turkish,50
+266,2019,Languages,Urdu,55
+267,2019,Languages,Vietnamese,179
+268,2019,Alarm Calls,Valid Alarms,775
+269,2019,Alarm Calls,False Alarms,5978
