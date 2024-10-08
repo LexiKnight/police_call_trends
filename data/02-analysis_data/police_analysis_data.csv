@@ -1,0 +1,131 @@
+YEAR,CATEGORY,TYPE,COUNT_
+2014,Languages,Arabic,98
+2014,Languages,Chinese,2069
+2014,Languages,Croatian,12
+2014,Languages,Farsi,165
+2014,Languages,French,171
+2014,Languages,German,7
+2014,Languages,Greek,25
+2014,Languages,Hindi,12
+2014,Languages,Hungarian,173
+2014,Languages,Italian,110
+2014,Languages,Japanese,43
+2014,Languages,Korean,175
+2014,Languages,Polish,69
+2014,Languages,Portuguese,147
+2014,Languages,Punjabi,46
+2014,Languages,Russian,201
+2014,Languages,Somali,30
+2014,Languages,Spanish,493
+2014,Languages,Tamil,235
+2014,Languages,Turkish,39
+2014,Languages,Urdu,19
+2014,Languages,Vietnamese,157
+2014,Alarm Calls,Valid Alarms,436
+2014,Alarm Calls,False Alarms,23914
+2014,Calls Received,Emergency,1075770
+2014,Calls Received,Non-Emergency,850420
+2015,Languages,Arabic,110
+2015,Languages,Chinese,2335
+2015,Languages,Croatian,5
+2015,Languages,Farsi,149
+2015,Languages,French,212
+2015,Languages,German,5
+2015,Languages,Greek,58
+2015,Languages,Hindi,34
+2015,Languages,Hungarian,148
+2015,Languages,Italian,110
+2015,Languages,Japanese,28
+2015,Languages,Korean,174
+2015,Languages,Polish,98
+2015,Languages,Portuguese,149
+2015,Languages,Punjabi,59
+2015,Languages,Russian,245
+2015,Languages,Somali,39
+2015,Languages,Spanish,468
+2015,Languages,Tamil,308
+2015,Languages,Turkish,42
+2015,Languages,Urdu,17
+2015,Languages,Vietnamese,154
+2015,Alarm Calls,Valid Alarms,509
+2015,Alarm Calls,False Alarms,22653
+2015,Calls Received,Emergency,991872
+2015,Calls Received,Non-Emergency,806024
+2016,Languages,Arabic,144
+2016,Languages,Chinese,2420
+2016,Languages,Croatian,11
+2016,Languages,Farsi,165
+2016,Languages,French,265
+2016,Languages,German,13
+2016,Languages,Greek,46
+2016,Languages,Hindi,38
+2016,Languages,Hungarian,277
+2016,Languages,Italian,135
+2016,Languages,Japanese,27
+2016,Languages,Korean,233
+2016,Languages,Polish,123
+2016,Languages,Portuguese,229
+2016,Languages,Punjabi,57
+2016,Languages,Russian,220
+2016,Languages,Somali,70
+2016,Languages,Spanish,492
+2016,Languages,Tamil,278
+2016,Languages,Turkish,43
+2016,Languages,Urdu,20
+2016,Languages,Vietnamese,143
+2016,Alarm Calls,Valid Alarms,526
+2016,Alarm Calls,False Alarms,21538
+2016,Calls Received,Emergency,962722
+2016,Calls Received,Non-Emergency,843538
+2017,Languages,Arabic,201
+2017,Languages,Chinese,2474
+2017,Languages,Croatian,7
+2017,Languages,Farsi,214
+2017,Languages,French,276
+2017,Languages,German,10
+2017,Languages,Greek,79
+2017,Languages,Hindi,57
+2017,Languages,Hungarian,217
+2017,Languages,Italian,129
+2017,Languages,Japanese,28
+2017,Languages,Korean,194
+2017,Languages,Polish,94
+2017,Languages,Portuguese,190
+2017,Languages,Punjabi,72
+2017,Languages,Russian,223
+2017,Languages,Somali,106
+2017,Languages,Spanish,588
+2017,Languages,Tamil,343
+2017,Languages,Turkish,32
+2017,Languages,Urdu,31
+2017,Languages,Vietnamese,161
+2017,Alarm Calls,Valid Alarms,608
+2017,Alarm Calls,False Alarms,18120
+2017,Calls Received,Emergency,996467
+2017,Calls Received,Non-Emergency,848711
+2018,Languages,Arabic,188
+2018,Languages,Chinese,2895
+2018,Languages,Croatian,8
+2018,Languages,Farsi,216
+2018,Languages,French,336
+2018,Languages,German,4
+2018,Languages,Greek,57
+2018,Languages,Hindi,40
+2018,Languages,Hungarian,191
+2018,Languages,Italian,126
+2018,Languages,Japanese,43
+2018,Languages,Korean,190
+2018,Languages,Polish,89
+2018,Languages,Portuguese,243
+2018,Languages,Punjabi,232
+2018,Languages,Russian,246
+2018,Languages,Somali,87
+2018,Languages,Spanish,666
+2018,Languages,Tamil,394
+2018,Languages,Turkish,64
+2018,Languages,Urdu,51
+2018,Languages,Vietnamese,205
+2018,Alarm Calls,Valid Alarms,787
+2018,Alarm Calls,False Alarms,11629
+2018,Calls Received,Emergency,1094182
+2018,Calls Received,Non-Emergency,838363
